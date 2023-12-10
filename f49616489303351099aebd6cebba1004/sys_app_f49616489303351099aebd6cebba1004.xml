@@ -20,7 +20,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_1259159_gest_o_0</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>UUm app para Gestão de Inventário</short_description>
+        <short_description>Um app para Gestão de Inventário</short_description>
         <source>x_1259159_gest_o_0</source>
         <store_correlation_id/>
         <store_url/>
@@ -29,9 +29,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-06 22:22:45</sys_created_on>
         <sys_id>f49616489303351099aebd6cebba1004</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-06 22:22:48</sys_updated_on>
+        <sys_updated_on>2023-12-07 03:04:30</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
